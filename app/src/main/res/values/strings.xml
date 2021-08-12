@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">SafeLogger</string>
+
+    <string name="title_name">Safe-Logger</string>
+    <string name="user_authentication">Authentication</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Confirm</string>
+
+    <string name="default_update_key_info">Update Authentication Key</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+
+
+    <string name="title_activity_main">Log Information</string>
+    <string name="log_username">UserName:</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="archive_password_information">Archive Password Information:</string>
+    <string name="days">Days</string>
+    <string name="current_password_information">Current Password Information:</string>
+    <string name="_31_12_9999">31/12/9999</string>
+    <string name="_999">999</string>
+    <string name="hidden_pass">********************</string>
+    <string name="passwords">Passwords</string>
+    <string name="days_in_use">Days In Use:</string>
+    <string name="log_name">Log Name</string>
+    <string name="go_back_to_record_list">Go back to record list</string>
+    <string name="start_date_current">Start Date:</string>
+    <string name="show_passwords">Show Passwords</string>
+    <string name="gen_pass">Generate Password</string>
+    <string name="length">Length:</string>
+    <string name="_11">11</string>
+    <string name="generatedpassword">GeneratedPassword</string>
+    <string name="generate">Generate</string>
+    <string name="copy">Copy</string>
+    <string name="upper_case">Upper-Case</string>
+    <string name="digits">Digits</string>
+    <string name="lower_case_ratio">Lower Case Ratio:</string>
+    <string name="_0_8">0.8</string>
+
+</resources>
